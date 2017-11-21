@@ -1,0 +1,78 @@
+# depslib dependency file v1.0
+1511158040 source:c:\users\willi\documents\cumusic\main.cpp
+	<iostream>
+	<windows.h>
+	<math.h>
+	<string>
+	<sstream>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"Miscmusic.h"
+	"Happymusic.h"
+	"Sadmusic.h"
+
+1511159071 source:c:\users\willi\documents\cumusic\happymusic.cpp
+	<iostream>
+	<windows.h>
+	<math.h>
+	<string>
+	<sstream>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"Happymusic.h"
+	"Miscmusic.h"
+	<vector>
+
+1511114073 c:\users\willi\documents\cumusic\happymusic.h
+	<iostream>
+	<windows.h>
+	"Miscmusic.h"
+	<vector>
+
+1511148599 source:c:\users\willi\documents\cumusic\miscmusic.cpp
+	<iostream>
+	<windows.h>
+	<math.h>
+	<string>
+	<sstream>
+	"Miscmusic.h"
+
+1511155741 c:\users\willi\documents\cumusic\miscmusic.h
+	<iostream>
+	<fstream>
+	<windows.h>
+	"Readmusic.h"
+
+1511141581 source:c:\users\willi\documents\cumusic\readmusic.cpp
+	<iostream>
+	<windows.h>
+	<math.h>
+	<string>
+	<sstream>
+	"Readmusic.h"
+
+1511133456 c:\users\willi\documents\cumusic\readmusic.h
+	<iostream>
+	<windows.h>
+	<fstream>
+
+1511157680 source:c:\users\willi\documents\cumusic\sadmusic.cpp
+	<iostream>
+	<windows.h>
+	<math.h>
+	<string>
+	<sstream>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"Sadmusic.h"
+	"Miscmusic.h"
+
+1511122620 c:\users\willi\documents\cumusic\sadmusic.h
+	<iostream>
+	<windows.h>
+	<vector>
+	"Miscmusic.h"
+

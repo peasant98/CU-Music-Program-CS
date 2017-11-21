@@ -1,0 +1,8 @@
+Fundamentals List For CU Band
+major
+minor
+arpeggio
+quarter
+half
+whole
+eighth
